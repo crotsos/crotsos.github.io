@@ -22,29 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+  - title: Lecturer
+    company: School of Computing and Communications, Lancaster University
+    company_url: "http://lancaster.ac.uk/"
+    company_logo: lu-logo
+    location: Lancaster
+    date_start: "2017-02-01"
+    date_end: ""
+    description: "Teaching networking and computer architecture."
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+  - title: Senior Research Associate
+    company: School of Computing and Communications, Lancaster University
+    company_url: "http://lancaster.ac.uk"
+    company_logo: lu-logo
+    location: Lancaster, Uk
+    date_start: "2015-01-01"
+    date_end: "2017-01-31"
+    description: Working on the EPSRC TOUCAN project on network orchestration.
+  - title: Research Assistant
+    company: Computer Laboratory, University of Cambridge
+    company_url: "http://cl.cam.ac.uk"
+    company_logo: uoc-logo
+    location: Lancaster, Uk
+    date_start: "2015-01-01"
+    date_end: "2017-01-31"
+    description: Working on the Darpa (MRC)2 project on network emulation.
 design:
-  columns: '2'
+design:
+  columns: "2"
 ---
