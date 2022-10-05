@@ -49,7 +49,7 @@ social:
     link: "/#contact"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/sodomutilator
+    link: https://twitter.com/lumpenproletar
     label: Follow me on Twitter
     display:
       header: true
